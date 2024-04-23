@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+beanie
+python-jose[cryptography]
+passlib[bcrypt]
+pymongo
+motor
+asgi_lifespan
+mongomock
+mongomock-motor
